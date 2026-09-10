@@ -8,21 +8,21 @@
 - [x] Initialize frontend with `npx create-react-app client` or `npm create vite@latest client`
 - [x] Create `.env.example` in `/client`
 - [x] Create `.gitignore` at project root
-- [ ] Initialize git repository
+- [x] Initialize git repository
 
 ## Phase 2: Backend - Dependencies & Configuration
 
-- [ ] Install backend dependencies:
-  - [ ] `express`
-  - [ ] `mongoose`
-  - [ ] `jsonwebtoken`
-  - [ ] `bcryptjs`
-  - [ ] `dotenv`
-  - [ ] `cors`
-  - [ ] `express-validator`
-  - [ ] `nodemon` (dev dependency)
-- [ ] Create `server/config/db.js` for MongoDB connection
-- [ ] Create `server/config/env.js` to load environment variables
+- [x] Install backend dependencies:
+  - [x] `express`
+  - [x] `mongoose`
+  - [x] `jsonwebtoken`
+  - [x] `bcryptjs`
+  - [x] `dotenv`
+  - [x] `cors`
+  - [x] `express-validator`
+  - [x] `nodemon` (dev dependency)
+- [x] Create `server/config/db.js` for MongoDB connection
+- [x] Create `server/config/env.js` to load environment variables
 - [ ] Update `server/package.json` with start scripts
 
 ## Phase 3: Backend - User Model & Schema
